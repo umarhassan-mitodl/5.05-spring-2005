@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Inorganic Chemistry"
+    ]
+  ],
+  "legacy_uid": "b076cec8-0939-5a05-6cb1-89091687ea29",
+  "instructors": {
+    "content": [
+      "a4c23312-835a-3760-22ef-2a8b1e76c45b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fb3cb7fe-99b2-461f-a42f-c0cf7028ae96",
+    "website": "5-05-principles-of-inorganic-chemistry-iii-spring-2005"
+  },
+  "course_title": "Principles of Inorganic Chemistry III",
+  "course_description": "This course covers the principles of main group (s and p block) element chemistry with an emphasis on synthesis, structure, bonding, and reaction mechanisms.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.05",
+  "course_image_thumbnail": {
+    "content": "48941e04-9ca9-e006-3a57-772653416d4e",
+    "website": "5-05-principles-of-inorganic-chemistry-iii-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "2598796c-31df-47db-81bb-1a74d08c520b",
+  "site_short_id": "5.05-spring-2005",
+  "site_url_path": "courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005",
+  "title": "Course Metadata"
+}
