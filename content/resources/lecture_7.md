@@ -5,6 +5,8 @@ description: Notes on "donor-acceptor" complex, octatin, tetra aryl system, and 
 file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/55117ef5cf699d89ea2d339094bfd98f_lecture_7.pdf
 file_size: 256448
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

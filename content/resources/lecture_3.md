@@ -5,6 +5,8 @@ description: Notes on metalloid clusters, and realization of +1 oxidation state 
 file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/aa62868ead3a5fd8fd5b83812bff9336_lecture_3.pdf
 file_size: 321055
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
