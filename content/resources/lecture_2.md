@@ -5,8 +5,6 @@ description: Notes on alumination, chemical shielding for carbenes, and reaction
 file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/8c4e9215c5ac6a7a60814a3481ecbb57_lecture_2.pdf
 file_size: 223257
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

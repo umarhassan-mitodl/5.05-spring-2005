@@ -4,8 +4,6 @@ description: Notes on relativistic effects, Au chemistry, and F chemistry.
 file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/d1c03b514ea6d76d7246572b0755427c_lecture_11.pdf
 file_size: 333119
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Notes on studying powerful oxidants, noble gas chemistry, and VSEPR
 file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/953ddac0de2b3de250bd65445a94de65_lecture_10.pdf
 file_size: 308673
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
